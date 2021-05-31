@@ -1,5 +1,7 @@
 # Supply Chain Project
 
+Udacity Supply Chain Coffee DAPP Project
+
 # Software Used
 
 Truffle v5.3.1 (core: 5.3.1)

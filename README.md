@@ -2,6 +2,8 @@
 
 Udacity Supply Chain Coffee DAPP Project
 
+UML Diagrams can be found in folder
+
 # Software Used
 
 Truffle v5.3.1 (core: 5.3.1)
